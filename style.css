@@ -80,10 +80,15 @@
     font-size: 28px;
     text-decoration: none;
   }
-  
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
   .email-link:hover {
     text-decoration: underline;
   }
+
   .primary-link:hover {
     color: white;
   }
